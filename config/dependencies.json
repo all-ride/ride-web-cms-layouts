@@ -1,28 +1,28 @@
 {
     "dependencies": [
         {
-            "interfaces": "pallo\\library\\cms\\layout\\Layout",
-            "class": "pallo\\web\\cms\\layout\\SingleColumnLayout",
+            "interfaces": "ride\\library\\cms\\layout\\Layout",
+            "class": "ride\\web\\cms\\layout\\SingleColumnLayout",
             "id": "single"
         },
         {
-            "interfaces": "pallo\\library\\cms\\layout\\Layout",
-            "class": "pallo\\web\\cms\\layout\\DoubleColumnHorizontal5050Layout",
+            "interfaces": "ride\\library\\cms\\layout\\Layout",
+            "class": "ride\\web\\cms\\layout\\DoubleColumnHorizontal5050Layout",
             "id": "double.h5050"
         },
         {
-            "interfaces": "pallo\\library\\cms\\layout\\Layout",
-            "class": "pallo\\web\\cms\\layout\\DoubleColumnHorizontal2575Layout",
+            "interfaces": "ride\\library\\cms\\layout\\Layout",
+            "class": "ride\\web\\cms\\layout\\DoubleColumnHorizontal2575Layout",
             "id": "double.h2575"
         },
         {
-            "interfaces": "pallo\\library\\cms\\layout\\Layout",
-            "class": "pallo\\web\\cms\\layout\\DoubleColumnHorizontal7525Layout",
+            "interfaces": "ride\\library\\cms\\layout\\Layout",
+            "class": "ride\\web\\cms\\layout\\DoubleColumnHorizontal7525Layout",
             "id": "double.h7525"
         },
         {
-            "interfaces": "pallo\\library\\cms\\layout\\Layout",
-            "class": "pallo\\web\\cms\\layout\\DoubleColumnVerticalLayout",
+            "interfaces": "ride\\library\\cms\\layout\\Layout",
+            "class": "ride\\web\\cms\\layout\\DoubleColumnVerticalLayout",
             "id": "double.v"
         }
     ]

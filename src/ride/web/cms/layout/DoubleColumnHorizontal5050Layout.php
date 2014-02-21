@@ -1,16 +1,16 @@
 <?php
 
-namespace pallo\web\cms\layout;
+namespace ride\web\cms\layout;
 
 /**
  * Double column page layout (horizontal 25% - 75%)
  */
-class DoubleColumnHorizontal2575Layout extends AbstractDoubleColumnLayout {
+class DoubleColumnHorizontal5050Layout extends AbstractDoubleColumnLayout {
 
     /**
      * Machine name of the layout
      * @var unknown
      */
-    const NAME = 'double.h2575';
+    const NAME = 'double.h5050';
 
 }

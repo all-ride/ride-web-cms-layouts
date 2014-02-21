@@ -1,8 +1,8 @@
 <?php
 
-namespace pallo\web\cms\layout;
+namespace ride\web\cms\layout;
 
-use pallo\library\cms\layout\AbstractLayout;
+use ride\library\cms\layout\AbstractLayout;
 
 /**
  * Single column page layout
