@@ -1,6 +1,6 @@
 <?php
 
-namespace pallo\web\cms\layout;
+namespace ride\web\cms\layout;
 
 /**
  * Double column page layout (horizontal 75% - 25%)
