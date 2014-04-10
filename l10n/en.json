@@ -1,0 +1,10 @@
+{
+    "layout.single": "Single Column",
+    "layout.double.h5050": "Double Column (horizontal 50% - 50%)",
+    "layout.double.h2575": "Double Column (horizontal 25% - 75%)",
+    "layout.double.h7525": "Double Column (horizontal 75% - 25%)",
+    "layout.double.v": "Double Column (vertical)",
+    "layout.triple.h333333": "Triple Column (horizontal 33% - 33% - 33%)",
+    "layout.triple.h255817": "Triple Column (horizontal 25% - 58% - 17%)",
+    "layout.triple.v": "Triple Column (vertical)"
+}
