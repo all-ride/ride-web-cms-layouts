@@ -1,0 +1,10 @@
+{
+    "layout.single": "Enkele kolom",
+    "layout.double.h5050": "Dubbele kolommen (horizontaal 50% - 50%)",
+    "layout.double.h2575": "Dubbele kolommen (horizontaal 25% - 75%)",
+    "layout.double.h7525": "Dubbele kolommen (horizontaal 75% - 25%)",
+    "layout.double.v": "Dubbele kolommen (verticaal)",
+    "layout.triple.h333333": "Drievoudige kolommen (horizontaal 33% - 33% - 33%)",
+    "layout.triple.h255817": "Drievoudige kolommen (horizontaal 25% - 58% - 17%)",
+    "layout.triple.v": "Drievoudige kolommen (verticaal)"
+}

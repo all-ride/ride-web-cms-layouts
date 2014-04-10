@@ -24,6 +24,21 @@
             "interfaces": "ride\\library\\cms\\layout\\Layout",
             "class": "ride\\web\\cms\\layout\\DoubleColumnVerticalLayout",
             "id": "double.v"
+        },
+        {
+            "interfaces": "ride\\library\\cms\\layout\\Layout",
+            "class": "ride\\web\\cms\\layout\\TripleColumnHorizontal333333Layout",
+            "id": "triple.h333333"
+        },
+        {
+            "interfaces": "ride\\library\\cms\\layout\\Layout",
+            "class": "ride\\web\\cms\\layout\\TripleColumnHorizontal255817Layout",
+            "id": "triple.h255817"
+        },
+        {
+            "interfaces": "ride\\library\\cms\\layout\\Layout",
+            "class": "ride\\web\\cms\\layout\\TripleColumnVerticalLayout",
+            "id": "triple.v"
         }
     ]
 }
