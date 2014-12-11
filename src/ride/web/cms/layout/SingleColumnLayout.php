@@ -13,15 +13,15 @@ class SingleColumnLayout extends AbstractLayout {
      * Machine name of the layout
      * @var unknown
      */
-    const NAME = 'single';
+    const NAME = '100';
 
     /**
      * Constructs a new layout
      * @return null
      */
     public function __construct() {
-        $this->regions = array(
-        	'column1' => 'column1',
+        $this->blocks = array(
+        	'block1' => 'block1',
         );
     }
 

@@ -15,8 +15,8 @@ class AbstractDoubleColumnLayout extends AbstractLayout {
      */
     public function __construct() {
         $this->regions = array(
-        	'column1' => 'column1',
-        	'column2' => 'column2',
+        	'block1' => 'block1',
+        	'block2' => 'block2',
         );
     }
 

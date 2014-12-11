@@ -3,42 +3,37 @@
         {
             "interfaces": "ride\\library\\cms\\layout\\Layout",
             "class": "ride\\web\\cms\\layout\\SingleColumnLayout",
-            "id": "single"
+            "id": "100"
         },
         {
             "interfaces": "ride\\library\\cms\\layout\\Layout",
-            "class": "ride\\web\\cms\\layout\\DoubleColumnHorizontal5050Layout",
-            "id": "double.h5050"
+            "class": "ride\\web\\cms\\layout\\DoubleColumn5050Layout",
+            "id": "50-50"
         },
         {
             "interfaces": "ride\\library\\cms\\layout\\Layout",
-            "class": "ride\\web\\cms\\layout\\DoubleColumnHorizontal2575Layout",
-            "id": "double.h2575"
+            "class": "ride\\web\\cms\\layout\\DoubleColumn2575Layout",
+            "id": "25-75"
         },
         {
             "interfaces": "ride\\library\\cms\\layout\\Layout",
-            "class": "ride\\web\\cms\\layout\\DoubleColumnHorizontal7525Layout",
-            "id": "double.h7525"
+            "class": "ride\\web\\cms\\layout\\DoubleColumn7525Layout",
+            "id": "75-25"
         },
         {
             "interfaces": "ride\\library\\cms\\layout\\Layout",
-            "class": "ride\\web\\cms\\layout\\DoubleColumnVerticalLayout",
-            "id": "double.v"
+            "class": "ride\\web\\cms\\layout\\TripleColumn333333Layout",
+            "id": "33-33-33"
         },
         {
             "interfaces": "ride\\library\\cms\\layout\\Layout",
-            "class": "ride\\web\\cms\\layout\\TripleColumnHorizontal333333Layout",
-            "id": "triple.h333333"
+            "class": "ride\\web\\cms\\layout\\TripleColumn255025Layout",
+            "id": "25-50-25"
         },
         {
             "interfaces": "ride\\library\\cms\\layout\\Layout",
-            "class": "ride\\web\\cms\\layout\\TripleColumnHorizontal255817Layout",
-            "id": "triple.h255817"
-        },
-        {
-            "interfaces": "ride\\library\\cms\\layout\\Layout",
-            "class": "ride\\web\\cms\\layout\\TripleColumnVerticalLayout",
-            "id": "triple.v"
+            "class": "ride\\web\\cms\\layout\\TripleColumn255817Layout",
+            "id": "25-58-17"
         }
     ]
 }
