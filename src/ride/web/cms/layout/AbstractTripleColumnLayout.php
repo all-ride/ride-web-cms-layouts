@@ -5,7 +5,7 @@ namespace ride\web\cms\layout;
 use ride\library\cms\layout\AbstractLayout;
 
 /**
- * Triple column page layout
+ * Triple block page layout
  */
 class AbstractTripleColumnLayout extends AbstractLayout {
 
@@ -15,9 +15,9 @@ class AbstractTripleColumnLayout extends AbstractLayout {
      */
     public function __construct() {
         $this->regions = array(
-            'column1' => 'column1',
-            'column2' => 'column2',
-            'column3' => 'column3',
+            'block1' => 'block1',
+            'block2' => 'block2',
+            'block3' => 'block3',
         );
     }
 
