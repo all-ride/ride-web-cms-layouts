@@ -5,7 +5,7 @@ namespace ride\web\cms\layout;
 use ride\library\cms\layout\AbstractLayout;
 
 /**
- * Triple block page layout
+ * Quadruple block page layout
  */
 class AbstractQuadrupleColumnLayout extends AbstractLayout {
 
