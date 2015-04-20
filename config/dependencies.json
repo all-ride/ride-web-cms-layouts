@@ -34,6 +34,11 @@
             "interfaces": "ride\\library\\cms\\layout\\Layout",
             "class": "ride\\web\\cms\\layout\\TripleColumn255817Layout",
             "id": "25-58-17"
+        },
+        {
+            "interfaces": "ride\\library\\cms\\layout\\Layout",
+            "class": "ride\\web\\cms\\layout\\QuadrupleColumn20202020Layout",
+            "id": "20-20-20-20"
         }
     ]
 }
