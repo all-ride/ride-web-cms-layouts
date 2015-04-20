@@ -1,6 +1,6 @@
 <?php
 
-namespace statik\carweb\cms\layout;
+namespace ride\web\cms\layout;
 
 /**
  * Quadruple column page layout (horizontal 25% -  25% - 25% - 25%)
