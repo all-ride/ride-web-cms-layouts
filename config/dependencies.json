@@ -37,8 +37,8 @@
         },
         {
             "interfaces": "ride\\library\\cms\\layout\\Layout",
-            "class": "ride\\web\\cms\\layout\\QuadrupleColumn20202020Layout",
-            "id": "20-20-20-20"
+            "class": "ride\\web\\cms\\layout\\QuadrupleColumn25252525Layout",
+            "id": "25-25-25-25"
         }
     ]
 }
