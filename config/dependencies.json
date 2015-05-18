@@ -7,6 +7,11 @@
         },
         {
             "interfaces": "ride\\library\\cms\\layout\\Layout",
+            "class": "ride\\web\\cms\\layout\\SingleNoGridColumnLayout",
+            "id": "100-no-grid"
+        },
+        {
+            "interfaces": "ride\\library\\cms\\layout\\Layout",
             "class": "ride\\web\\cms\\layout\\DoubleColumn5050Layout",
             "id": "50-50"
         },
@@ -17,8 +22,18 @@
         },
         {
             "interfaces": "ride\\library\\cms\\layout\\Layout",
+            "class": "ride\\web\\cms\\layout\\DoubleColumn3366Layout",
+            "id": "33-66"
+        },
+        {
+            "interfaces": "ride\\library\\cms\\layout\\Layout",
             "class": "ride\\web\\cms\\layout\\DoubleColumn7525Layout",
             "id": "75-25"
+        },
+        {
+            "interfaces": "ride\\library\\cms\\layout\\Layout",
+            "class": "ride\\web\\cms\\layout\\DoubleColumn6633Layout",
+            "id": "66-33"
         },
         {
             "interfaces": "ride\\library\\cms\\layout\\Layout",
