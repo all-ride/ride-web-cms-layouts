@@ -1,8 +1,11 @@
 {
     "layout.100": "Single Column",
+    "layout.100-no-grid": "Single Column without grid",
     "layout.50-50": "Double Column (50% - 50%)",
     "layout.25-75": "Double Column (25% - 75%)",
     "layout.75-25": "Double Column (75% - 25%)",
+    "layout.33-66": "Double Column (33% - 66%)",
+    "layout.66-33": "Double Column (66% - 33%)",
     "layout.33-33-33": "Triple Column (33% - 33% - 33%)",
     "layout.25-50-25": "Triple Column (25% - 50% - 25%)",
     "layout.25-58-17": "Triple Column (25% - 58% - 17%)",
