@@ -5,5 +5,6 @@
     "layout.75-25": "Double Column (75% - 25%)",
     "layout.33-33-33": "Triple Column (33% - 33% - 33%)",
     "layout.25-50-25": "Triple Column (25% - 50% - 25%)",
-    "layout.25-58-17": "Triple Column (25% - 58% - 17%)"
+    "layout.25-58-17": "Triple Column (25% - 58% - 17%)",
+    "layout.25-25-25-25": "Quadruple Column (25% - 28% - 25% - 25%)"
 }
