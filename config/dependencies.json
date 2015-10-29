@@ -2,13 +2,13 @@
     "dependencies": [
         {
             "interfaces": "ride\\library\\cms\\layout\\Layout",
-            "class": "ride\\web\\cms\\layout\\SingleColumnLayout",
-            "id": "100"
+            "class": "ride\\web\\cms\\layout\\SingleNoGridColumnLayout",
+            "id": "100-no-grid"
         },
         {
             "interfaces": "ride\\library\\cms\\layout\\Layout",
-            "class": "ride\\web\\cms\\layout\\SingleNoGridColumnLayout",
-            "id": "100-no-grid"
+            "class": "ride\\web\\cms\\layout\\SingleColumnLayout",
+            "id": "100"
         },
         {
             "interfaces": "ride\\library\\cms\\layout\\Layout",
