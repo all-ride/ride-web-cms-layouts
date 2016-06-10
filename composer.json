@@ -2,7 +2,7 @@
     "name": "ride/web-cms-layouts",
     "description": "Base layouts for the CMS application of the Ride framework",
     "license": "MIT",
-    "version": "0.3.7",
+    "version": "0.3.8",
     "authors": [
         {
             "name": "Joris Vandeweerd",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "ride/web-cms": ">=0.16.0"
-    }, 
+    },
     "autoload": {
         "psr-0": {
             "ride\\web\\cms\\layout\\": ["src/"]
